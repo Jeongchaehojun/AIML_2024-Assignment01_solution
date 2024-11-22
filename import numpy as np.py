@@ -1,3 +1,6 @@
+# 파이썬 코드로 작성한 머신러닝 코드입니다.
+# 원하는 함수의 계수를 "curve_fit"으로 제공된 데이터와 비교하여 최적의 계수를 구하는 방식입니다.
+# best_params는 머신러닝의 시작점을 제공해주는 역할입니다.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
